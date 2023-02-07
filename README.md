@@ -11,3 +11,4 @@
 |[小强](https://xqcloud.net)|14/月/66G|无|0/2G/3天|20230207|
 |[hneko](https://hneko.xyz)|7/月/3T|25/1T/不限时|无|20230207|
 |[八方云](https://cn.bafang.vip)|5/月/2T|20/2T/不限时|1/100G/月<br>2/100G/不限时|20230207|
+|[Wgetcloud](https://www.wgetcloud.org)|49/月/120G|12/10G/1年|无|20230207|
